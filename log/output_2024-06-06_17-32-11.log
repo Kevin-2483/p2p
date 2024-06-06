@@ -1,0 +1,3 @@
+2024-06-06T17:32:11.668247798+08:00 - INFO - Local peer id: PeerId("12D3KooWCLxYmttQJ9zThdx7ZsWbtkEPtGrNq2vXA5FumATp6xW5")
+2024-06-06T17:32:11.670562825+08:00 - ERROR - Warning: BOOTSTRAP_PEER_ID environment variable is not set, using default value
+2024-06-06T17:32:11.670593982+08:00 - ERROR - Error: BOOTSTRAP_ADDR environment variable is not set

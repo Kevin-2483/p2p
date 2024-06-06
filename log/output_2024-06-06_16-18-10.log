@@ -1,0 +1,3 @@
+2024-06-06T16:18:10.701379285+08:00 - INFO - Local peer id: PeerId("12D3KooWPkYFM114YL2kM5wyMRTdAzgebjeGvKFZLL57b5TrddU1")
+2024-06-06T16:18:10.703997106+08:00 - INFO - Discovered peer via Kademlia: PeerId("12D3KooW9pNAk8aiBuGVQtWRdbkLmo5qVL3e2h5UxbN2Nz9ttwiw")
+2024-06-06T16:18:10.704097232+08:00 - INFO - creating instance on iface 10.0.0.101

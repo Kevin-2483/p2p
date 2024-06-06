@@ -1,0 +1,6 @@
+2024-06-06T17:45:01.106370797+08:00 - INFO - Local peer id: PeerId("12D3KooWPo6b4nS1EWcgBVkEFQwNjGCRRNk9XxDEmBEvt57BDXL5")
+2024-06-06T17:45:01.108891730+08:00 - ERROR - Warning: BOOTSTRAP_PEER_ID environment variable is not set, using radmon value
+2024-06-06T17:45:01.108983291+08:00 - ERROR - Error: BOOTSTRAP_ADDR environment variable is not set,using default value:/ip4/127.0.0.1/tcp/8080
+2024-06-06T17:45:01.109001046+08:00 - ERROR - Error: LISTENING_ADDR environment variable is not set, using default value:/ip4/0.0.0.0/tcp/12345
+2024-06-06T17:45:01.109193641+08:00 - INFO - Discovered peer via Kademlia: PeerId("12D3KooW9pNAk8aiBuGVQtWRdbkLmo5qVL3e2h5UxbN2Nz9ttwiw")
+2024-06-06T17:45:01.109286641+08:00 - INFO - creating instance on iface 10.0.0.101

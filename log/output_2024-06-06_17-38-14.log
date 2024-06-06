@@ -1,0 +1,5 @@
+2024-06-06T17:38:14.494473064+08:00 - INFO - Local peer id: PeerId("12D3KooWSb5PF8Ae1ufgPJDNLFe5GH1Vp5Bwc13uYX2wpRTtBnpt")
+2024-06-06T17:38:14.496872373+08:00 - ERROR - Warning: BOOTSTRAP_PEER_ID environment variable is not set, using default value
+2024-06-06T17:38:14.496969505+08:00 - ERROR - Error: BOOTSTRAP_ADDR environment variable is not set
+2024-06-06T17:38:14.497160423+08:00 - INFO - Discovered peer via Kademlia: PeerId("12D3KooW9pNAk8aiBuGVQtWRdbkLmo5qVL3e2h5UxbN2Nz9ttwiw")
+2024-06-06T17:38:14.497284426+08:00 - INFO - creating instance on iface 10.0.0.101
